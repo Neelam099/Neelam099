@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **python ,django , javascript, sql Msql.**
 
-- 📫 How to reach me **yaduvanshi09@gmail.com**
+- 📫 How to reach me **yadavneelamgithub09@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 
