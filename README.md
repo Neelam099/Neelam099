@@ -9,7 +9,7 @@
 
  </p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" /> </p>
+<p align="center"> <img src="https://camo.githubusercontent.com/402b2fc1baaf7931fcadd20d59223a85cac298d84aaefe6486868a4f1b3e4fd7/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f31373730372f73637265656e73686f74732f323431333735342f7272722e676966" /> </p>
 
 - 🔭 I’m currently working on **Mala Foundation**
 
