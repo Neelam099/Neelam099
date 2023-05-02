@@ -11,15 +11,15 @@
 
 <p align="center"> <img src="https://camo.githubusercontent.com/402b2fc1baaf7931fcadd20d59223a85cac298d84aaefe6486868a4f1b3e4fd7/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f31373730372f73637265656e73686f74732f323431333735342f7272722e676966" /> </p>
 
-- 🔭 I’m currently working on **Mala Foundation**
+- 🔭 I’m currently working on - **Mala Foundation**
 
-- 🌱 I’m currently learning **AI/ Machine Learning**
+- 🌱 I’m currently learning - **AI/ Machine Learning**
 
-- 👯 I’m looking to collaborate with **New Opportunity**
+- 👯 I’m looking to collaborate with  - **New Opportunity**
 
 - 🤝 I’m looking for help with **Beginer Students}**
 
-- 👨‍💻 All of my projects are available at [softbaazar.com](softbaazar.com)
+- 👨‍💻 All of my projects are available at - [softbaazar.com]([softbaazar.com](http://35.160.148.45/))
 
 - 💬 Ask me about **python ,django , javascript, sql Msql.**
 
