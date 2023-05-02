@@ -13,13 +13,13 @@
 
 - 🔭 I’m currently working on **Mala Foundation**
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **AI/ Machine Learning**
 
-- 👯 I’m looking to collaborate on **soft{Bazar}**
+- 👯 I’m looking to collaborate with **New Opportunity**
 
-- 🤝 I’m looking for help with **soft{Bazar}**
+- 🤝 I’m looking for help with **Beginer Students}**
 
-- 👨‍💻 All of my projects are available at [baazargroup.in](groupbaazar.in)
+- 👨‍💻 All of my projects are available at [softbaazar.com](softbaazar.com)
 
 - 💬 Ask me about **python ,django , javascript, sql Msql.**
 
