@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **Beginer Students}**
 
-- 👨‍💻 All of my projects are available at - [http://35.160.148.45/]([softbaazar.com](http://35.160.148.45/))
+- 👨‍💻 All of my projects are available at - [http://35.160.148.45/](http://35.160.148.45/)
 
 - 💬 Ask me about **python ,django , javascript, sql Msql.**
 
